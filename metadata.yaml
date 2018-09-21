@@ -1,5 +1,5 @@
 _repo: Eramaan-halki_53605
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: W pustyni i w puszczy. Finnish
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1883
     gutenberg_agent_id: '45093'
     url: http://www.gutenberg.org/2009/agents/45093
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53605#Eramaan-halki
 gutenberg_issued: '2016-11-26'
 gutenberg_type: Text
 identifiers:
